@@ -1,9 +1,10 @@
+
 const questions = [
     {
         question: "Qual é a principal função de um atuador em um robô?",
         options: ["Processar informações", "Movimentar as partes do robô", "Captar dados sensoriais", "Armazenar energia"],
         answer: "Movimentar as partes do robô",
-        image: "img/atuador.jpg",
+        image: "atuador.jpg",
     },
     {
         question: "Qual destes sensores é comumente usado para medir a distância em robôs móveis?",
